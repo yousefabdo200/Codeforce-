@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1659931977 source:d:\mostafa saad sheet\a. pangram\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+
